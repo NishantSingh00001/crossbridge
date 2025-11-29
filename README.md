@@ -1,4 +1,5 @@
 # CrossBridge — Backend (WhatsApp ↔ Telegram Bridge)
+![CrossBridge Banner](https://dummyimage.com/1200x300/1a1a1a/ffffff&text=CROSSBRIDGE+%7C+WhatsApp+↔+Telegram+Bridge)
 
 A backend service that enables message bridging between **WhatsApp** and **Telegram**, built using the **MERN** stack (MongoDB, Express.js, Node.js).  
 This backend runs independently and can be tested without a frontend.
